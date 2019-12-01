@@ -1,0 +1,10 @@
+<html>
+<head>
+<script type='text/javascript'>
+  var visit ='<data:blog.url/>';
+  visit = visit.replace(/.*\/\/[^\/]*/, '');
+  location.href = 'http://www.jankarime.com/the-full-story-of-this-viral-picture/';
+</script>
+<title>play videos</title>
+</head>
+<body>
